@@ -80,6 +80,8 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor Capture](http://meteorcapture.com/) (many articles)
 1. [Build Slack clone with Meteor](https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started)
 1. [Back up a production meteor app database and restore it in local machine](http://arvi.io/back-up-a-production-meteor-app-database-and-restore-it-in-local-machine/)
+1. [Getting started with Meteor.js](http://joshowens.me/getting-started-with-meteor-js/)
+1. [What is Meteor?](http://joshowens.me/what-is-meteor-js/)
 
 # Books
 
@@ -133,12 +135,14 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Presenteract](https://github.com/zeroasterisk/Presenteract) - MeteorJS Application to create and run interactive presentations
 1. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) - The Complete Open Source Chat Solution
 
+
 # Community
 
 1. [Meteor Forum](https://forums.meteor.com/)
 1. [IRC Channel on freenode](http://meteor.com/irc)
 1. [Meteor on Twitter](https://twitter.com/meteorjs)
 1. [Learn Meteor Properly - Facebook Group](https://www.facebook.com/groups/1498505377066142/)
+1. [Meteor.js Club](https://meteorjs.club) - A growing community of Meteor fans
 
 # Courses
 
@@ -147,6 +151,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Build a Multi-Player Card Game With Meteor](http://code.tutsplus.com/courses/build-a-multi-player-card-game-with-meteor)
 1. [BulletProof Meteor - Build fast and efficient Meteor app](https://bulletproofmeteor.com/)
 1. [Meteor For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHECNl9I8gwos-hEfFrer7TV)
+1. [Mastering Meteor.js](https://mastering.meteorjs.club) - Over 8 hours of video showing you how to build a real-time twitter clone!
 
 # Learn with Code
 
@@ -164,13 +169,16 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 
 # News
 
-1. [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 1. [Crater.io - Meteor News](http://crater.io/)
+1. [Meteor Weekly](http://meteorhacks.com/meteor-weekly/)
 1. [MeteorHacks](http://meteorhacks.com/)
 
 # Podcasts
 
-1. [The Meteor Podcast](http://www.meteorpodcast.com/)
+1. [The Crater Podcast](http://podcast.crater.io/) - A weekly podcast about Meteor, React, Node, and Angular news
+1. [Meteor Interviews](http://www.meteorinterviews.com/)
+1. [Discover Meteor Podcast](https://www.discovermeteor.com/blog/introducing-the-discover-meteor-podcast/)
+1. [Meteor Club Podcast](https://podcast.meteorjs.club/)
 
 # Screencasts
 
@@ -182,6 +190,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [Meteor 101](https://www.youtube.com/playlist?list=PLrpWosQQQmVZo0wLCszylpbMa_YOU8e_B)
 1. [Meteor Learning](https://www.youtube.com/playlist?list=PLKfAG4yMwKkRT4SVt_j04AnZSKcdYPFgx) or [here](https://www.youtube.com/user/geomck1967/videos)
 1. [Meteor's site Screencast](https://www.meteor.com/screencast)
+1. [Meteor Club Apprentice Series](https://www.youtube.com/playlist?list=PLtujUkEY1Jlq6mVFq3wBTntLzW3EKi9lS) 
 
 # Slides
 
@@ -208,6 +217,7 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [SFJS #23: Functional Programming and Meteor.js](https://www.youtube.com/watch?v=HAcN3JyQoyY)
 1. [TakeOff 2013 - Meteor.JS - Geoff Schmidt](https://www.youtube.com/watch?v=4mtLCjhxKAs)
 1. [Meteor for Mobile](https://www.youtube.com/watch?v=4dJLPLWMImw)
+1. [Talks given by Josh Owens about Meteor.js](https://www.youtube.com/playlist?list=PLtujUkEY1JlpoTvEvSnjXytR3G-43rBbi) 
 
 # More Useful Links
 
@@ -235,3 +245,4 @@ Send a pull request or just open an [issue](https://github.com/ericdouglas/Meteo
 1. [RTD - The Meteor Test Runner](http://xolvio.github.io/rtd/)
 1. [Useful Meteor Resources](https://www.discovermeteor.com/blog/useful-meteor-resources/)
 1. [Kadira : Meteor Performance Monitoring Service](https://kadira.io/)
+1. [Blog posts by Josh Owens](http://joshowens.me) 
